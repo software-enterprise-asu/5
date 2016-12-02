@@ -1,0 +1,3958 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/Default for CST415/498 SE3: Inception and Elaboration (Fall 2010)</text>
+    </category>
+  </question>
+  <!-- question: 230  -->
+  <question type="essay">
+    <name>
+      <text>Elicitation: Affinity ordering</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>In your requirements elicitation practice session involving group techniques, you tried both brainstorming and the affinity process. For the second activity (the affinity/sticky-note process), list the final set of requirements RANKED HIGHEST TO LOWEST in terms of priority. Explain the reasons for your chosen rankings.</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <answer fraction="0">
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 229  -->
+  <question type="essay">
+    <name>
+      <text>Elicitation: Brainstorming ordering</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>In your requirements elicitation practice session involving group techniques, you tried both brainstorming and the affinity process. For the first activity (brainstorming), list the final set of requirements RANKED HIGHEST TO LOWEST in terms of priority. Explain the reasons for your chosen rankings.</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <answer fraction="0">
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 231  -->
+  <question type="essay">
+    <name>
+      <text>Elicitation: Group elicitation</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>In your requirements elicitation practice session involving group techniques, you tried both brainstorming and the affinity process. In a short essay, please explain the following: What are the major differences between the brainstorming and the affinity processes as covered in the lab? When might you use brainstorming? When might you use the affinity process? Explain and provide evidence for your response. Which techniques are you more likely to use in your project and why?</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <answer fraction="0">
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 228  -->
+  <question type="essay">
+    <name>
+      <text>Elicitation: Interview reflection from lab</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>In your requirements elicitation interview exercise, you took turns with your partner interviewing another pair of students, and getting interviewed by them in turn. Discuss how similar or different the requirements you gathered from each source turned out to be (is there evidence for your answer?). How did you and your partner try to resolve any discrepancies in the 2nd round of interviews? How well did your efforts turn out and why do you feel that way?</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <answer fraction="0">
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 233  -->
+  <question type="essay">
+    <name>
+      <text>Elicitation: project</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Indicate how your team has employed interviewing and group elicitation techniques in the context of your project. Be specific as to when, where, and who was involved. Describe the extent to which the process you used on the project matched the process described in class (or in your textbook). Describe the benefits and drawbacks to techniques you have employed. If you have not employed any of the 3 techniques, indicate that as well and describe why you have not employed the technique.</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <answer fraction="0">
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 248  -->
+  <question type="matching">
+    <name>
+      <text>Ch 24 TECH: matching</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Match the technical method with the phrase that best characterizes it</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <subquestion>
+      <text>a combination of natural and programming languages intended for understanding by both programmers and non-programmers</text>
+      <answer>
+        <text>pseudocode</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>eliminates ambiguity by elaborating the various conditions of the system and its processing of inputs</text>
+      <answer>
+        <text>finite state machines</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>a better representation of nested conditional structures when dealing with multiple inputs</text>
+      <answer>
+        <text>decision tables/trees</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>a modern-day version of a flowchart</text>
+      <answer>
+        <text>UML activity diagram</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>a visual depiction of the structure and relationships between data elements</text>
+      <answer>
+        <text>entity-relationship diagrams</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text></text>
+      <answer>
+        <text>dataflow diagrams</text>
+      </answer>
+    </subquestion>
+  </question>
+  <!-- question: 204  -->
+  <question type="matching">
+    <name>
+      <text>Ch. 11 Preparation</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Match the workshop preparation activity to the description of the concept</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <subquestion>
+      <text>Communicate the benefits of the workshop approach to members of the team</text>
+      <answer>
+        <text>Selling the Concept</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>Identify the right people who can contribute to the process or whose needs will be met</text>
+      <answer>
+        <text>Ensuring the Participation of the Right Stakeholders</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>
+        <![CDATA["Get their minds right"]]>
+</text>
+      <answer>
+        <text>Providing Warm-up Materials</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>This activity is important because this person plays a pivotal role in the workshop's success</text>
+      <answer>
+        <text>Choosing the Facilitator</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>Approaching preparation with a high degree of professionalism conveys its importance to participants.</text>
+      <answer>
+        <text>Attending to Logistics</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text></text>
+      <answer>
+        <text>Project-specific information</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text></text>
+      <answer>
+        <text>Setting the Agenda</text>
+      </answer>
+    </subquestion>
+  </question>
+  <!-- question: 210  -->
+  <question type="matching">
+    <name>
+      <text>Ch. 12 Reduction</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Match the description with idea reduction steps</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <subquestion>
+      <text>Visit each generated idea looking for quick agreement by the group that the idea is OK.</text>
+      <answer>
+        <text>Pruning ideas</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>Putting related ideas together and naming them.</text>
+      <answer>
+        <text>Grouping ideas</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>Providing a 1-sentence description of the idea</text>
+      <answer>
+        <text>Defining Features</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>Voting, Categorizing, Ranking, etc.</text>
+      <answer>
+        <text>Prioritizing Ideas</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text></text>
+      <answer>
+        <text>Web-based Brainstorming</text>
+      </answer>
+    </subquestion>
+  </question>
+  <!-- question: 212  -->
+  <question type="matching">
+    <name>
+      <text>Ch. 13 Storyboard types</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Match the description with the type of storyboard</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <subquestion>
+      <text>Non-interactive presentation that a human walks the stakeholder through</text>
+      <answer>
+        <text>Passive storyboards</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>An automated description of system behavior in typical scenarios</text>
+      <answer>
+        <text>Active storyboards</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>Simulations or related forms that allow the user to experience the system in a realistic way</text>
+      <answer>
+        <text>Interactive storyboards</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text></text>
+      <answer>
+        <text>Early product prototypes</text>
+      </answer>
+    </subquestion>
+  </question>
+  <!-- question: 241  -->
+  <question type="matching">
+    <name>
+      <text>QUALITY: 830 characteristics matching</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Match the Characteristics of a good SRS with its description</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <subquestion>
+      <text>every requirement stated in the SRS is one that the software shall meet</text>
+      <answer>
+        <text>Correct</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>every requirement has only one interpretation</text>
+      <answer>
+        <text>Unambiguous</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>every requirement has an identifier to indicate the importance or stability of the requirement</text>
+      <answer>
+        <text>Ranked for importance and/or stability</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>every requirement has a finite, cost-effective process exists that can check the software product meets the requirement</text>
+      <answer>
+        <text>Verifiable</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>the style and structure of the SRS are such that any changes can be made easily, completely, and consistently while retaining that same structure and style</text>
+      <answer>
+        <text>Modifiable</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>the origin of each requirement is clear and the SRS facilitates referencing in future development or documentations</text>
+      <answer>
+        <text>Traceable</text>
+      </answer>
+    </subquestion>
+  </question>
+  <!-- question: 172  -->
+  <question type="matching">
+    <name>
+      <text>RE: Phase Best Practices</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Match the best practice to the requirements engineering process phase in which that practice is best applied:</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <subquestion>
+      <text>Get extensive user involvement</text>
+      <answer>
+        <text>elicitation</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>Prioritize requirements</text>
+      <answer>
+        <text>analysis</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>Inspect requirements specifications</text>
+      <answer>
+        <text>verification</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>Manage requirements changes</text>
+      <answer>
+        <text>requirements management</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text></text>
+      <answer>
+        <text>specification</text>
+      </answer>
+    </subquestion>
+  </question>
+  <!-- question: 183  -->
+  <question type="matching">
+    <name>
+      <text>REQ Ch. 5: 5 steps matching</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Match the step in the problem analysis process to the example of an activity to do in that step.</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <subquestion>
+      <text>Write the problem down and see if everyone agrees</text>
+      <answer>
+        <text>Gain Agreement on the Problem Definition</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>Chart the problem and possible explanations in a fishbone diagram</text>
+      <answer>
+        <text>Understand the root causes</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>Ask questions about who will use, buy, maintain, approve, etc. the finished system</text>
+      <answer>
+        <text>Identify the stakeholders</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>Determine the inputs and output of a system, and/or the types of users (actors) and their interactions with the system.</text>
+      <answer>
+        <text>Define the System Boundary</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>Having a checklist of questions to ask will help discover these nonfunctional requirements. These requirements are defined as things the system cannot do, or restrictions on how it much be developed, deployed, and/or operated.</text>
+      <answer>
+        <text>Identify the Constraints</text>
+      </answer>
+    </subquestion>
+  </question>
+  <!-- question: 189  -->
+  <question type="matching">
+    <name>
+      <text>REQS Ch. 8 User and Dev</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>
+        <![CDATA[The "User and Developer" problem is a fundamental communication problem. Match the communication problem with the recommended possible solution.]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <subquestion>
+      <text>Users are unable to communicate what they want</text>
+      <answer>
+        <text>Try more than one elicitation technique</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>Users think they know what they want until someone gives it to them</text>
+      <answer>
+        <text>Alternative elicitation techniques and prototyping</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>The solution provider thinks they know what is needed more than the users do</text>
+      <answer>
+        <text>Role playing</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>The situation is politically charged</text>
+      <answer>
+        <text>Understand and deal with it, these situations are real life</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text></text>
+      <answer>
+        <text>Confront the situation and bring the problem to light</text>
+      </answer>
+    </subquestion>
+  </question>
+  <!-- question: 162  -->
+  <question type="matching">
+    <name>
+      <text>SDLC: Phase matching</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Match the software process phase with the closest description</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <subquestion>
+      <text>Coding the project</text>
+      <answer>
+        <text>Implementation</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>Identifying what, in the customer's mind, the software should do. Expressing this in the customer's vocabulary.</text>
+      <answer>
+        <text>Requirements</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>Understanding the scope of what is to be done, and translating it to technical vocabulary</text>
+      <answer>
+        <text>Analysis</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>Activities that help identify defects in a system or application</text>
+      <answer>
+        <text>Testing</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>Activities that transition the software system or application from a development environment to the operational environment</text>
+      <answer>
+        <text>Deployment</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>Updating the software to correct defects or provide new features after the software is operational</text>
+      <answer>
+        <text>Maintenance and Evolution</text>
+      </answer>
+    </subquestion>
+  </question>
+  <!-- question: 163  -->
+  <question type="matching">
+    <name>
+      <text>SLDC: Matching lifecycle models</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Match the software process lifecycle model with its closest description</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <subquestion>
+      <text>A linear model where the phase transitions are well-defined</text>
+      <answer>
+        <text>Waterfall</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>Emphasizes risk management as a key activity in the software process</text>
+      <answer>
+        <text>Spiral</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>Delivers software repeatedly in smaller increments</text>
+      <answer>
+        <text>Iterative and Incremental</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>Emphasizes people and continuous feedback over defined process control</text>
+      <answer>
+        <text>Agile methods</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text></text>
+      <answer>
+        <text>Systems Engineering</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text></text>
+      <answer>
+        <text>Formal methods</text>
+      </answer>
+    </subquestion>
+  </question>
+  <!-- question: 227  -->
+  <question type="matching">
+    <name>
+      <text>UC: Ch. 14 steps</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Match the activity description with the Use case building step.</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <subquestion>
+      <text>Who uses the system? What other systems use this system?</text>
+      <answer>
+        <text>Identify and Describe Actors</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>What will the system be used for?</text>
+      <answer>
+        <text>Identify Use Cases and write a brief description</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>Analyze each use case and determine what actors interact with it</text>
+      <answer>
+        <text>Identify Actor to Use Case relationships</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>write down the basic flow and then the alternative flows</text>
+      <answer>
+        <text>Outline Individual Use Cases</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>specify all alternative flows and pre/post conditions</text>
+      <answer>
+        <text>Refine the Use cases</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text></text>
+      <answer>
+        <text>Catalog the Use Cases</text>
+      </answer>
+    </subquestion>
+  </question>
+  <!-- question: 249  -->
+  <question type="cloze">
+    <name>
+      <text>Ch 25 UCImpl: orthogonal</text>
+    </name>
+    <questiontext>
+      <text>Orthogonality, or when there is little correlation between the {1:MC:=requirements~design~implementation} and the {2:MC:requirements~=design} or implementation</text>
+    </questiontext>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <shuffleanswers>0</shuffleanswers>
+  </question>
+  <!-- question: 199  -->
+  <question type="cloze">
+    <name>
+      <text>Ch. 11 Workshops</text>
+    </name>
+    <questiontext>
+      <text>Requirements workshops are designed to {1:MULTICHOICE:bore you to death~=encourage consensus~promote diverse discussion} on the requirements and to {2:MULTICHOICE:move slowly~explore all options~=gain rapid agreement} on a plan of action in a {3:MULTICHOICE:way that makes everyone feel happy~=very short time~methodical way}.</text>
+    </questiontext>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <shuffleanswers>0</shuffleanswers>
+  </question>
+  <!-- question: 206  -->
+  <question type="cloze">
+    <name>
+      <text>Ch. 12 Phases</text>
+    </name>
+    <questiontext>
+      <text>Brainstorming has two phases, idea {1:SA:=generation} and idea {2:SA:=reduction}</text>
+    </questiontext>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <shuffleanswers>0</shuffleanswers>
+  </question>
+  <!-- question: 213  -->
+  <question type="cloze">
+    <name>
+      <text>Ch. 13 Advice</text>
+    </name>
+    <questiontext>
+      <text>The authors give some advice about storyboarding. They say to storyboard {1:MULTICHOICE:late~cautiously~=early~quickly}, storyboard {2:MULTICHOICE:infrequently~=often~quickly~anywhere}, and storyboard {3:MULTICHOICE:=on every project that has innovative content~on only the most important projects~with online tools}</text>
+    </questiontext>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <shuffleanswers>0</shuffleanswers>
+  </question>
+  <!-- question: 218  -->
+  <question type="cloze">
+    <name>
+      <text>UC: Ch. 14 definition</text>
+    </name>
+    <questiontext>
+      <text>A use case describes sequences of {1:SHORTANSWER:=actions} a system performs that yield an {2:SHORTANSWER:=observable result} of value to a particular {3:SHORTANSWER:=actor}.</text>
+    </questiontext>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <shuffleanswers>0</shuffleanswers>
+  </question>
+  <!-- question: 223  -->
+  <question type="cloze">
+    <name>
+      <text>UC: Ch. 14 UML icons</text>
+    </name>
+    <questiontext>
+      <text>UML specifies icons for use case diagrams. The icon for a use case is a(n) {1:MULTICHOICE:stick figure~=oval~rectangle} and the icon for an actor is a(n) {2:MULTICHOICE:=stick figure~oval~rectangle}.</text>
+    </questiontext>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <shuffleanswers>0</shuffleanswers>
+  </question>
+  <!-- question: 247  -->
+  <question type="multichoice">
+    <name>
+      <text>Ch 24 TECH: when</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>
+        <![CDATA[Your textbook suggests using the "technical methods" approach when]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="50">
+      <text>the description of the requirements is too complex for natural language</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50">
+      <text>you cannot afford to have the specification misunderstood</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20">
+      <text>your colleagues are easily impressed by math notations</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20">
+      <text>you are looking to impress your professors</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20">
+      <text>you need to get a better estimate of costs</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 255  -->
+  <question type="multichoice">
+    <name>
+      <text>Ch 25 UCImpl: architecture</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>We use architecture to</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="20">
+      <text>Understand what the system does</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>Understand how the system works</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>Think and work on pieces of the system</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>Extend the system</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>Reuse parts of the system</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 254  -->
+  <question type="multichoice">
+    <name>
+      <text>Ch 25 UCImpl: modeling</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>The purpose of modeling is</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>
+        <![CDATA[get to an understandable "essence"]]>
+</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>simplify to the point that the system is not represented</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>ensure proper examination of the implementation details</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 252  -->
+  <question type="multichoice">
+    <name>
+      <text>Ch 25 UCImpl: orthogonality sources</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>What are sources for the orthogonality problem?</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="25">
+      <text>The two spaces use different languages</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>Some requirements have more to deal with process structure than code structure</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>Some requirements are implemented across multiple interacting system elements</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>design is optimized for reasons other than traceability</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20">
+      <text>requirements are done by business analysts, coders do the design and implementation</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 256  -->
+  <question type="multichoice">
+    <name>
+      <text>Ch 25 UCImpl: realization</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>A use case realization is part of the</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>requirements</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>design model</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>supplementary specification</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>SRS</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>SDP</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 203  -->
+  <question type="multichoice">
+    <name>
+      <text>Ch. 11 Benefits</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Benefits of running a requirements workshop include</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="20">
+      <text>Builds an effective team</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>Nobody is left out</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>Gets stakeholders and developers to agree</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>Helps resolve political issues</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>Results are available immediately</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>They come from a single source of information</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>Stakeholders can only contribute in areas they know about</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>improves morale as everyone would rather be in a meeting</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 205  -->
+  <question type="multichoice">
+    <name>
+      <text>Ch. 12 Benefits</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the below is a benefit of brainstorming?</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="20">
+      <text>Encourages participation</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>Allows participants to build off each other's ideas</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>Generates a lot of ideas in a short time</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>A number of possible solutions are discovered</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>Encourages out-of-the-box thinking</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-14.2857">
+      <text>Keeps the team mentally sharp</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-14.2857">
+      <text>Lets the most aggressive people put forward the most ideas</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 209  -->
+  <question type="multichoice">
+    <name>
+      <text>Ch. 12 Rules</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>To make sure people do not get shy and tentative about volunteering ideas, following this rule is especially important.</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>Mo criticism of others' ideas</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Let imaginations soar</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Generate as many ideas as possible</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Combine ideas</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 211  -->
+  <question type="multichoice">
+    <name>
+      <text>Ch. 13 Storyboarding benefits</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Benefits of storyboarding include</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="25">
+      <text>Inexpensive</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>Interactive</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>Allows for an early review</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>Easy to create and change</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20">
+      <text>You can generate code from them</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 242  -->
+  <question type="multichoice">
+    <name>
+      <text>QUALITY: 830 characteristics of SRS</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Of the 8 quality characteristics of an SRS, which can apply to individual requirements instead of applying to the SRS as a whole?</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="25">
+      <text>Traceable</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>Modifiable</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>Correct</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>Consistent</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>Unambiguous</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>Verifiable</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>Ranked for Importance and/or Stability</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>Complete</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 244  -->
+  <question type="multichoice">
+    <name>
+      <text>QUALITY: 830 Environment</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>An SRS should not</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-25">
+      <text>define all of the software requirements</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-25">
+      <text>limit the range of valid software designs</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50">
+      <text>include design or implementation details</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50">
+      <text>impose additional constraints on the software</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 246  -->
+  <question type="multichoice">
+    <name>
+      <text>QUALITY: 830 not include</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>The SRS should not include information about which of the following</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="10">
+      <text>Cost</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="10">
+      <text>Schedules</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="10">
+      <text>Reporting procedures</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="10">
+      <text>Verification and validation criteria</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="10">
+      <text>Acceptance procedures</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="10">
+      <text>Software development methods</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="10">
+      <text>Quality assurance</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="10">
+      <text>Allocating functions to modules</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="10">
+      <text>Choosing data structures</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="10">
+      <text>Describing flow of information or control</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 245  -->
+  <question type="multichoice">
+    <name>
+      <text>QUALITY: 830 Prototyping</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Prototyping is a useful requirements quality activity because</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="33.333">
+      <text>customers are more likely to review a prototype and provide feedback than an SRS</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>it may introduce new questions, giving implicit feedback on the state of the elicitation process</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>it leads to reduced change during development</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20">
+      <text>you can reuse it to build the production software</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20">
+      <text>developers are always happier when writing code</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 243  -->
+  <question type="multichoice">
+    <name>
+      <text>QUALITY: SRS nature</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>An SRS should address:</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="20">
+      <text>Functionality</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>External Interfaces</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>Performance</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>Portability, Correctness, Maintainability, Security Attributes</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>Design constraints imposed on an implementation</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>Project planning information</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>Feasibility studies</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>Market analysis of the features</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 236  -->
+  <question type="multichoice">
+    <name>
+      <text>QUALITY: techniques</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Weigers suggests which of the following as quality techniques?</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="50">
+      <text>Write test cases before you write any code</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50">
+      <text>formal inspections</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.333">
+      <text>informal walkthroughs</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.333">
+      <text>continuous integration</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.333">
+      <text>meetings with stakeholders</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 238  -->
+  <question type="multichoice">
+    <name>
+      <text>QUALITY: Weigers - 830</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following characteristics of individual requirements does Weigers list as necessary that DO NOT APPEAR in the list of SRS characteristics in the IEEE 830 specification?</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="50">
+      <text>Feasible</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-25">
+      <text>Correct</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50">
+      <text>Necessary</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-25">
+      <text>Prioritized</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-25">
+      <text>Unambiguous</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-25">
+      <text>Verifiable</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 240  -->
+  <question type="multichoice">
+    <name>
+      <text>QUALITY: Weigers guidelines</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Weigers' suggests which of the following as tips for writing better requirements:</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="16.666">
+      <text>Keep sentences and paragraphs short</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="16.666">
+      <text>Read a requirement from the developer's perspective</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="16.666">
+      <text>Write individually testable requirements</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="16.666">
+      <text>Watch out for multiple requirements aggregated into a single requirement</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="16.666">
+      <text>Write requirements at a consistent level of detail</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="16.666">
+      <text>Avoid redundant requirements</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>Write requirements using structured natural language</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>Capture requirements as user stories to avoid incorrect narratives</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 239  -->
+  <question type="multichoice">
+    <name>
+      <text>QUALITY: Weigers SRS characteristics</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Weigers characteristics of a quality SRS itself include</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="25">
+      <text>Complete</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>Consistent</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>Modifiable</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>Traceable</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20">
+      <text>Well-written</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 237  -->
+  <question type="multichoice">
+    <name>
+      <text>QUALITY: who determines correctness</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following can determine correctness of the requirements?</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>End user representatives</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>customers</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>developers</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>business analysts</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>project managers</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 173  -->
+  <question type="multichoice">
+    <name>
+      <text>RE: Common problems</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>At various points, the article suggests which of the following are problems to deal with in the requirements engineering process (choose all that apply):</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="20">
+      <text>scope creep</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>insufficient user involvement</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>an attitude that code is the only tangible form of progress</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>a failure to understand the return on investment (ROI) of good requirements engineering</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>skepticism, politics, and emotion</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>unwillingness to employ Agile methods</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>
+        <![CDATA[a "not invented here" attitude]]>
+</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>a lack of respect for the customer</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 171  -->
+  <question type="multichoice">
+    <name>
+      <text>RE: levels of reqs</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Three levels of requirements, according to the author, are</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="33.333">
+      <text>Business</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>User</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>Functional</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20">
+      <text>Non-functional</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20">
+      <text>Domain</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 174  -->
+  <question type="multichoice">
+    <name>
+      <text>RE: Quality</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>The elicitation best practice that suggests it is just as important to understand how well the system will perform its functions as it is to describe what the system will do is</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>Define quality attributes</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Focus on User Tasks</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Define the product's business requirements</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Get extensive user involvement</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 181  -->
+  <question type="multichoice">
+    <name>
+      <text>REQ Ch. 5: Problem Analysis</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>According to your text book chapter 5, problem analysis is first and foremost a _____</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>process</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>problem</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>requirements engineering phase</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>software lifecycle model</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>something only business analysts do</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 182  -->
+  <question type="multichoice">
+    <name>
+      <text>REQ Ch. 5: Problem Defn</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>According to your textbook chapter 5, a problem is the difference between the _______ and the _______</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>perceived, desired</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>wanted, needed</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>bought, sold</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>customer, market</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>need, feature</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 178  -->
+  <question type="multichoice">
+    <name>
+      <text>REQ Ch1: Dev problems</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>According to the 1995 ESPITI study, the least important problem in delivering software was</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>Coding</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Requirements specifications</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Managing requirements</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Documentation</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Testing</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Project Management</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 180  -->
+  <question type="multichoice">
+    <name>
+      <text>REQ Ch1: Pyramid</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Examine the pyramid figure on page 10 and the read carefully the middle paragraph on page 12. The paragraph says that Snyder and Shumate found on Hughes projects, that 74% of requirements errors were found and fixed in requirements analysis, 11% leaked into (and were presumably fixed in) design, and 4% made it out to maintenance. Your question: If there are 100 total requirements defects on a Hughes project, and the unit cost of finding a fixing a requirements defect in the requirements analysis phse is $1, then how much total $$$ is spent on finding and fixing requirement defects in the requirements analysis, design, and maintenance phases respectively?</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>1, 5, 20</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>74, 55, 800</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>74, 370, 1480</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>7.4, .55, 80</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 177  -->
+  <question type="multichoice">
+    <name>
+      <text>REQ Ch1: Root Causes</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>The 1994 Standish Group report also suggest some common root causes for problems on software projects. These common root causes included:</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="33.333">
+      <text>Lack of user input</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>Incomplete requirements and specifications</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>Changing requirements and specifications</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20">
+      <text>Incorrect requirements and specifications</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20">
+      <text>Inconsistent requirements and specifications</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 176  -->
+  <question type="multichoice">
+    <name>
+      <text>REQ CH1: Standish</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>The 1994 Standish Group report, which is a widely cited industry study, indicates which of the following about the state of the software industry?</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="33.333">
+      <text>Almost 1/3 of software projects get canceled before they complete</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>Over 1/2 of software projects cost almost twice their original estimates</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>$130B goes to canceled over over-budget projects</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20">
+      <text>Outsourcing is responsible for a 20% cost savings in software projects since 1985</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20">
+      <text>The Web has resulted in a 35% cost of development increase since 1990</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 175  -->
+  <question type="multichoice">
+    <name>
+      <text>REQ: Customer types</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>A customer for our software product or service may come in which of the following forms:</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="33.333">
+      <text>an external entity buying our product</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>someone asking us to develop custom software for hire</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>works at the same organization as us</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-25">
+      <text>a professor who requires we do it</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 194  -->
+  <question type="multichoice">
+    <name>
+      <text>REQS Ch. 10 CF1</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Before we conceptualize or form our first solution to the problem, we want to ________ the customer in order to understand the real problems.</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>listen to</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>introduce ourselves to</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>make a sale with</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>review the statement of work with</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 193  -->
+  <question type="multichoice">
+    <name>
+      <text>REQS Ch. 10 Interview factors</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Some of the confounding (problematic) factors to conducting interviews to elicit requirements include</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="50">
+      <text>
+        <![CDATA[The "User and Developer" syndrome from chapter 8]]>
+</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50">
+      <text>We bring our biases to the table, including experience in solving the same problem type before</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-25">
+      <text>It can be hard to schedule time with the stakeholder</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-25">
+      <text>Interviews can have awkward pauses of silence</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 195  -->
+  <question type="multichoice">
+    <name>
+      <text>REQS CH. 10 tips</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Some tips for conducting a successful interview include</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="25">
+      <text>Prepare - write down the questions to ask beforehand</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>Research the background of the stakeholder and company before the interview</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>Capture answers in a notebook</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>Refer to your preparation notes during the interview</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20">
+      <text>Make sure you arrange to have good food there</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 188  -->
+  <question type="multichoice">
+    <name>
+      <text>REQS Ch. 8 Ruins</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>
+        <![CDATA["Undiscovered ruins" is another name for a classic problem called "feature creep." This is a situation where new features seem to creep into the software even after the requirements have been established.
+
+What step of problem analysis (Chapter 5) can be done better to resolve the "Undiscovered Ruins" problem?]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>false</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>123</answernumbering>
+    <answer fraction="0">
+      <text>Gain agreement on the problem definition</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Understand the Root Causes</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Identify the Stakeholders</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Define the Solution Boundary</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Identify the Constraints</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 186  -->
+  <question type="multichoice">
+    <name>
+      <text>REQS Ch. 8 Yes but</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>
+        <![CDATA[According to your textbook, users' reaction to the first time they see the implemented application is typically "Yes, but..." because:]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="33.333">
+      <text>it is human nature; they haven't seen it before</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>they did not understand what it meant when the solution was described to them earlier</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>it is not what they expected</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20">
+      <text>they changed their minds about it from before</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20">
+      <text>they are trying to get more for their money by dragging you along</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 187  -->
+  <question type="multichoice">
+    <name>
+      <text>REQS Ch. 8 Yes but sol</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>
+        <![CDATA[What is one thing you can do to combat the "Yes but..." syndrome?]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>Show the user working software earlier and get feedback</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>
+        <![CDATA[Stand your ground and say, "no new features"]]>
+</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Ask the customer for more money than you know s/he is willing to spend</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Ignore the demands and move on</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Do not show the customer the solution until the last day, and provide no warranty for your software</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 190  -->
+  <question type="multichoice">
+    <name>
+      <text>REQS Ch. 9 Feature</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>When a stakeholder is asked about what they want in a new system or application, s/he usually responds with a description of a</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Business need</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Feature</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Requirement</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Vision</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 191  -->
+  <question type="multichoice">
+    <name>
+      <text>REQS Ch. 9 Need</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>This says nothing about what will be in the software being constructed.</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>Business Need</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Feature</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Requirement</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 192  -->
+  <question type="multichoice">
+    <name>
+      <text>REQS Ch. 9 Needs and Features</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Why is it important to understand whether the stakeholder is describing to you a business need or the description of a software feature?</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>The need defines the real business problem; the feature is the stakeholders filter of what s/he thinks is needed to solve the problem</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>You charge for your software based on how many features you implement, not how many needs you address</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Features can be tracked, needs cannot</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>If it is a feature then you should also know what requirements it is tied to</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 161  -->
+  <question type="multichoice">
+    <name>
+      <text>SDLC: phases</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following are part of almost every software process lifecycle model?</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="20">
+      <text>Requirements</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>Requirements analysis</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>Implementation (coding)</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>Meetings</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>Testing</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>Deployment</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>Marketing</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>Scrum</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 167  -->
+  <question type="multichoice">
+    <name>
+      <text>SDLC: Spiral cons</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>What are some of the drawbacks of the Spiral Model</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="33.333">
+      <text>Difficult to execute on small projects</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-25">
+      <text>Moves very aggressively through the lifecycle</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>You can get lost in where you are in the process</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>
+        <![CDATA[Projects can "spiral out of control"]]>
+</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 166  -->
+  <question type="multichoice">
+    <name>
+      <text>SDLC: Spiral Pros</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>What are some of the benefits of the Spiral model? Choose all that apply.</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="33.333">
+      <text>Adapts well to change</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>Identifies risks early on</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>Strong emphasis on prototyping</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-25">
+      <text>Is easy to understand and execute</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 165  -->
+  <question type="multichoice">
+    <name>
+      <text>SDLC: Waterfall Cons</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>What are some of the drawbacks of the Waterfall process?</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="33.333">
+      <text>Each phase must be perfect before moving on</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>Inflexible in the face of change</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-25">
+      <text>Allows teams to move fast</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>Emphasizes documents over working software</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 164  -->
+  <question type="multichoice">
+    <name>
+      <text>SDLC: Waterfall Pros</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>What are some of the benefits of using a Waterfall process?</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="33.333">
+      <text>Complete requirements reduces defects and saves time later</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-25">
+      <text>Waterfalls are a pleasing metaphor</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>Ensures good documentation of the project</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>Suitable for stable projects</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 226  -->
+  <question type="multichoice">
+    <name>
+      <text>UC: Ch. 14 anatomy</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Every use case has 4 mandatory parts:</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="25">
+      <text>Name</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>Brief description</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>Actor(s)</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>Flow of events</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20">
+      <text>Conditions</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 217  -->
+  <question type="multichoice">
+    <name>
+      <text>UC: Ch. 14 benefits</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following are benefits to the use case approach?</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="16.666">
+      <text>Easy to read and write</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="16.666">
+      <text>Forces developers to consider the perspective of the user</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="16.666">
+      <text>Provide a mechanism for ordering requirements</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="16.666">
+      <text>They carry over into the testing process</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="16.666">
+      <text>Provide context for the system; how it meets its objectives</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="16.666">
+      <text>Engages the users in the requirements development process</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>If you do use cases you do not have to do anything else</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>They are in vogue (popular) so using them makes you look good</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 185  -->
+  <question type="multichoice">
+    <name>
+      <text>VISION Ch. 16: stakeholders</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Primary internal stakeholders for a Vision document are</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="33.333">
+      <text>Marketing team</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>Project development team</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>Management team</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20">
+      <text>Quality Assurance team</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20">
+      <text>Applications support team</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 170  -->
+  <question type="shortanswer">
+    <name>
+      <text>RE: Comm</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Requirements engineering is primarily a _______________ activity, not a technical activity.</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <usecase>0</usecase>
+    <answer fraction="100">
+      <text>communication</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 179  -->
+  <question type="shortanswer">
+    <name>
+      <text>REQ Ch1: Defect Cost Ration</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>The ratio of the cost of finding and fixing a defect in the requirements phase versus finding it in the maintenance phase is ____ to 1.</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <usecase>0</usecase>
+    <answer fraction="100">
+      <text>200</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="10">
+      <text>10</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>100</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="10">
+      <text>5</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="10">
+      <text>20</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 169  -->
+  <question type="shortanswer">
+    <name>
+      <text>SDLC: Incremental</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>
+        <![CDATA[The incremental part of the "Iterative and Incremental" software lifecycle process refers to developing the software in]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <usecase>0</usecase>
+    <answer fraction="100">
+      <text>smaller portions at a time</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="80">
+      <text>smaller * time</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 168  -->
+  <question type="shortanswer">
+    <name>
+      <text>SDLC: Iterative</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>
+        <![CDATA[The iterative part of the "Iterative and Incremental" software lifecycle process refers to developing the software in]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <usecase>0</usecase>
+    <answer fraction="100">
+      <text>repeated cycles</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="80">
+      <text>r* cycles</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 184  -->
+  <question type="shortanswer">
+    <name>
+      <text>VISION Ch. 16: Essence</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>The Vision documentis supposed to capture the __________ of the envisioned software system.</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <usecase>0</usecase>
+    <answer fraction="100">
+      <text>essence</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 253  -->
+  <question type="truefalse">
+    <name>
+      <text>Ch 25 UCImpl: functionality</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>A purposeful attempt to do a 1:1 mapping from requirements to code leads to a object-oriented design</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <answer fraction="0">
+      <text>true</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>false</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 232  -->
+  <question type="truefalse">
+    <name>
+      <text>Elicitation: certification</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>I certify that my responses on this quiz reflect my individual thought and activity; I have not collaborated on my answers with anyone inside our outside of class (including on the Internet) in any way. I understand if that I answer false to this question Dr. Gary will not score my quiz and I will receive a zero. I understand that if I answer true to this question but in fact have collaborated with someone, I am subject to failure in the course and discipline in accordance with the ASU ethics policies.</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <answer fraction="100">
+      <text>true</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>false</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 235  -->
+  <question type="truefalse">
+    <name>
+      <text>QUALITY: perfect</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>No matter how much you work on requirements, they will never be perfect.</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <answer fraction="100">
+      <text>true</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>false</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 234  -->
+  <question type="truefalse">
+    <name>
+      <text>QUALITY: poor reqs</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Poor requirements can lead to excellent software</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <answer fraction="0">
+      <text>true</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>false</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 197  -->
+  <question type="truefalse">
+    <name>
+      <text>REQS CH. 10 CF TF</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Context-free questions are meant to start directing the stakeholder toward the solution you have in mind.</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <answer fraction="0">
+      <text>true</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>false</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 196  -->
+  <question type="truefalse">
+    <name>
+      <text>REQS CH. 10 conducting</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>When conducting the interview, you should stop the stakeholder from rambling on and on, and instead cut them off and go on to the next question to make sure you make the best use of the time.</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <answer fraction="0">
+      <text>true</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>false</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 198  -->
+  <question type="truefalse">
+    <name>
+      <text>REQS CH. 10 questionnaires</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Questionnaires should not replace interviews, and in fact should be done after interviews have taken place</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <answer fraction="100">
+      <text>true</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>false</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 222  -->
+  <question type="truefalse">
+    <name>
+      <text>UC: Ch. 14 actor definition</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>An actor is a restricted subset of the system's stakeholders consisting only of its human end users.</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <answer fraction="0">
+      <text>true</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>false</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

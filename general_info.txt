@@ -1,0 +1,9 @@
+| | |
+| --------- | ----------------------------------- |
+| __Title__ | Requirements Engineering |
+| __Version Info__ | Version 1.0, submitted by asingh64 on 09/30/2012 at 02:28 PM |
+| __Author__ | Kevin Gary |
+| __Mapping to Content Taxonomy__ | __SEEK:__ MAA.rfd <br> __CS2013:__ SE/Requirements Engineering |
+| __Abstract__ | This module delves into the Requirements phase in more detail, and then goes on to discuss the front-end of the RE process. |
+| __Size__ | __Preparation:__ 1 hour Reading <br/> __Preparation Quiz:__ 30 minutes <br/> __Discussion:__ 75 minutes <br/> __Practice:__ 2 hours 30 minutes |
+| __Comments__ | |

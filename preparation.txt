@@ -1,0 +1,5 @@
+READING: Wiegers K; When Telepathy Won’t Do: Requirements Engineering Key Practices in Cutter IT Journal, May 2000.               
+READING (Optional) : Leffingwell D., Widrig D., "The Software Team" in Managing Software Requirements, J. C. Shanklin,  Addison-Wesley, 2000, ch. 3, pp. 23-30.
+QUIZ:          IMS QTI 2.0 format (ZIP)
+                    Moodle XML format (XML)
+                    XHTML Format (HTML)
